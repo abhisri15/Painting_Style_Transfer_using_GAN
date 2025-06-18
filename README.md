@@ -3,9 +3,9 @@
 **Computer Vision | 6th Semester CSE**
 
 **Group Members:**  
+- Abhikalp Srivastava (B521002)
 - Axa Gemini Lakra (B121010)  
 - Shruti Swarupa Dhar (B121056)  
-- Abhikalp Srivastava (B521002)
 
 **Faculty Advisor:** Mr. Sarthak Padhi  
 **IIIT Bhubaneswar** • **April 2024**
